@@ -1,0 +1,16 @@
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\obj\Debug\net5.0\Stateczki.csproj.AssemblyReference.cache
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\obj\Debug\net5.0\Stateczki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\obj\Debug\net5.0\Stateczki.AssemblyInfoInputs.cache
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\obj\Debug\net5.0\Stateczki.AssemblyInfo.cs
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\obj\Debug\net5.0\Stateczki.csproj.CoreCompileInputs.cache
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\bin\Debug\net5.0\Stateczki.exe
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\bin\Debug\net5.0\Stateczki.deps.json
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\bin\Debug\net5.0\Stateczki.runtimeconfig.json
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\bin\Debug\net5.0\Stateczki.runtimeconfig.dev.json
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\bin\Debug\net5.0\Stateczki.dll
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\bin\Debug\net5.0\ref\Stateczki.dll
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\bin\Debug\net5.0\Stateczki.pdb
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\obj\Debug\net5.0\Stateczki.dll
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\obj\Debug\net5.0\ref\Stateczki.dll
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\obj\Debug\net5.0\Stateczki.pdb
+C:\Users\PakaG\Desktop\Statki\Stateczki\Stateczki\obj\Debug\net5.0\Stateczki.genruntimeconfig.cache
